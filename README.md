@@ -12,4 +12,7 @@ My Fifth changes
 
 My Sixth chnage on master.
 
+Update from github.
+
+
 My Seven change via local.
